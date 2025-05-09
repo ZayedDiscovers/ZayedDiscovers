@@ -1,5 +1,5 @@
 # 💫 About Me:
-A bit of this and that... <br><br>* Game Development<br>* Active Gray Hat (I guess...)<br>* Pentester
+A bit of this and that... <br><br>* Game Development<br>* Pentester
 
 
 # 💻 Tech Stack:
